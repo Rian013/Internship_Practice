@@ -1,0 +1,9 @@
+positive or negative
+s1:start
+s2:declare n
+s3:read n
+s4:if n>=0
+    n is positive 
+  else 
+      n is negative 
+s5:stop

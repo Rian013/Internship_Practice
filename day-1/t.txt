@@ -1,0 +1,9 @@
+character is t or not
+s1:start 
+s2:delare ch
+s3:read ch
+s4:if ch == 't'
+diplay t
+   else 
+ not t
+s5:stop

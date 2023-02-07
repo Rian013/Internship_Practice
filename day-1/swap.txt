@@ -1,0 +1,7 @@
+swap two numbers with third veriable
+s1:start
+s2:declare variables a,b,temp
+s3:read the values of a,b
+s4:find temp=a,a=b,a=temp
+s5:dispaly a,b
+s6:stop

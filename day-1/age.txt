@@ -1,0 +1,8 @@
+eligibility to vote
+Step1:start
+step2:Declare age;
+step3:Read age;
+step3:perform operation if(age>=18)
+step4:         dispalay eligible for vote 
+          else display not eligible;
+step 5:stop

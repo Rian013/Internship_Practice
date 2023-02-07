@@ -1,0 +1,7 @@
+find perimeter of rectangle
+step1:start
+step2:delare l,b,perimeter;
+step3:read l,b;
+step4:perimeter=2*(l+b);
+step5:display perimeter;
+step6:stop
