@@ -1,0 +1,7 @@
+swap two numbers without third variable
+s1:start
+s2:declare variables a,b
+s3:read a,b
+s4:a=a+b,b=a-b,a=a-b
+s5:display a,b
+s6:stop
