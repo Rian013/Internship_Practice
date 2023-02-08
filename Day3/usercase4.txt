@@ -1,0 +1,7 @@
+issue book
+S1:Start
+s2:asking user their student id and filling the form
+S3:Find the Book and fill the respetive detail
+S4:note down the  book id from user
+S5:Then issue the book to the user
+s8:stop

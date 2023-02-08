@@ -1,0 +1,10 @@
+read the book in a library
+s1:start
+s2:First go to the library
+s3:fill your name and enter the  time and handover your id
+s4:select the desired book
+s5:complete the task
+s6:if the book is not availbe go to step8
+s7:place the book in the respective place
+s8:fill in the leaving time and collect your id
+s9:stop

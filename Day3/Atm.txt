@@ -1,0 +1,11 @@
+withraw
+S1:Start
+S2:First Insert Your Debit Card
+S3:Enter the PIN
+S4:Then select the type of your Acount
+S5:Type the  required amount to be debited
+S7:If any error go to step 8
+S6:Wait until the required amount process
+S7:collect Amount
+S8:Remove the Card
+S9:Stop

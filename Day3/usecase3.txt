@@ -1,0 +1,11 @@
+borrow book
+S1:Start
+S2:Go to the library
+s3:fill your name and the enter the time and handover your id
+s4:Ask the incharge of the library about the book u desire.
+s5:Then Search for the book.
+s6:if the book is not availbe go to step9
+S7:Fill the form
+S8:submit the form and borrow the book
+s9:fill the leaving time and collect your id card
+S10:stop

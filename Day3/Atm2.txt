@@ -1,0 +1,12 @@
+Checking Balance
+S1:Start
+S2:First Insert Your Debit Card
+S3:Enter the PIN
+S4:Then select the type of your Acount
+S5:Choose Check bank baance
+S7:If any error go to step 9
+S6:Then check the balance
+S7:cLick on receipt option if u want.
+S8:Wait until u recieve receipt
+S9:remove card
+S10:stop

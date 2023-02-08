@@ -1,0 +1,9 @@
+Search for books(offline)
+s1:start
+s2:go to the library
+s3:fill your name and the enter the time and handover your id
+s4:Ask the incharge of the library about the book u desire.
+s5:Then Search for the book.
+s6:if the book is not availbe go to step7
+s7:fill the leaving time and collect your id card
+s8:stop
