@@ -1,0 +1,11 @@
+Order Management
+Step1:Start
+Step2:After Coustemer sat confertably Give the menu
+step3:After some time ask for orders
+step4:Take down the orders ask coustemer to wait for few minutes
+step5:After the order is ready go to the respective table and serve it nicely
+step7:After costumer as completed half of their meal and ask them if they need anything extra
+step8:Wait until coustemer completes their meal and ask them polietly if they want bill
+step9:Give the bill to them and ask for the mode of payment
+step10:After the completon of payment say"thank you,Visit again"
+step11:stop

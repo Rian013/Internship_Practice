@@ -1,0 +1,9 @@
+Kitchen Management
+S1:Start
+s2:After taking the orders give the list to the incharge of cooking
+s3:Divide the responsibility equally to differnet cooks on the basis of their expertise
+s4:Make sure complition will be on time.
+S5:Arange the items as per the given list 
+s6:Inform the incharge about the complition
+S7:then deliver it to the respetive table
+s8:stop

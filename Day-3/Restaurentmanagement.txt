@@ -1,0 +1,12 @@
+Restaurant management
+Step1:start
+Step2:Manager must guide the customer towards vacant table.
+Step3:After Customer sat confertably on table ,water must be provided
+step5:Then give the menu to the customer wait until they decide.
+step6:Take the orders.
+Step7:After that serve them their food.
+Step8:After coustemer completes ask them for any thing extra they need
+step9:if coustemer is done wait unil they ask for bills
+step10:Ask them the mode of payment.
+step11:After that say "Thank you Visit Again"
+Step12:stop
