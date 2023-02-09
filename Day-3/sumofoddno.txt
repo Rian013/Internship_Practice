@@ -1,0 +1,12 @@
+to find the sum of odd no. between 1 to n
+step1:start
+step2:declare i,n
+step3:read n
+step4:intialize the i value i=1
+step5:initialize sum variiable to zero ,sum =0
+step6:check i value with n if(i<=n) if true go to step 6 if the condition false go to step 8
+step6:if i%2 != 0:
+          print i
+      sum = sum+i
+step 7:incriment i go to step 6
+step8:stop
