@@ -1,0 +1,11 @@
+BEGIN
+     DECLARE a;
+     READ a;
+    IF a==int THEN
+     DISPLAY a number
+    ELSE IF a==string
+      DISPLAY a is character
+    ELSE
+      Display a is special Character
+    END IF
+END

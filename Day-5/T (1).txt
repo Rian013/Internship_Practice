@@ -1,0 +1,9 @@
+BEGIN
+     DECLARE ch
+     READ ch
+     if ch=="t" THEN
+     DISPLAY t
+     ELSE
+      DISPLAY not t 
+     END IF 
+ END

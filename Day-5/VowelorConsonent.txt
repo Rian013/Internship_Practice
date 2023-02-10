@@ -1,0 +1,10 @@
+BEGIN
+     DECLARE ch
+     READ ch
+     if ch=="a"orch=="e"orch=="i"orch=="o"orch=="u" THEN
+     DISPLAY vowel
+     ELSE
+      DISPLAY Consonent
+     END IF 
+ END
+     

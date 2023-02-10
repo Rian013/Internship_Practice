@@ -1,0 +1,7 @@
+ 
+BEGIN
+     DECLARE h,b,area;
+     READ hb;
+     CALCULATE area=h*b/2;
+     DISPALY area;
+END

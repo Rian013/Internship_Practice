@@ -1,0 +1,6 @@
+BEGIN
+     DECLARE side,per;
+     READ side;
+     CALCULATE per=4*side;
+     DISPLAY per;
+END

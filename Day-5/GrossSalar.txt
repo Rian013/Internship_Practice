@@ -1,0 +1,23 @@
+BEGIN
+     DECLARE basic_salry;
+     READ basic_salary;
+      IF (basic_salary<=10000) THEN
+   hra  = basic_salary*0.2
+   da    = basic _salary*0.8
+    display hra,da
+   g_salary = basic_salary+hra+da
+    display g_salary
+ ELSE IF  (basic_salary<=20000) THEN
+   hra  = basic_salary*0.2
+   da    = basic _salary*0.9()
+    display hra,da
+   g_salary = basic_salary+hra+da
+    display g_salary
+ELSE IF (basic_salary>20000) THEN
+   hra  = basic_salary*0.95
+   da    = basic _salary*0.3
+    display hra,da
+     END IF 
+          g_salary = basic_salary+hra+da
+           display g_salary
+ END

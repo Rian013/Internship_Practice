@@ -1,0 +1,6 @@
+BEGIN
+     DECLARE a,b,c,per;
+     READ a,b,c;
+     CALCULATE per=a+b+c;
+     DISPLAY per;
+END

@@ -1,0 +1,7 @@
+ 
+BEGIN
+     DECLARE l,b,per;
+     READ l,b;
+     CALCULATE per=2*(l+b);
+     DISPLAY per;
+END

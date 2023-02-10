@@ -1,0 +1,18 @@
+BEGIN
+     DECLARE a,b,c,d,e,avg,per;
+     READ a,b,c,d,e;
+     average = (a+b+c+d+e)/5;
+       per = (a+b+c+d+e)/max *100;
+      IF  per>=90 && per<100 THEN
+             display grade A
+      ELSE IF per>=80 && per<90 THEN
+          display grade B
+      ELSE IF per>=70 && per<80 THEN
+          display grade c
+      ELSE IF per>=60 && per<70 THEN
+          display grade d
+      ELSE
+         display fail
+END IF 
+         DISPLAY average,per
+ END
