@@ -1,0 +1,13 @@
+Bill Payment
+s1:Insert Card
+s2:Select the language of your type
+s3:Enter the pin
+S4:Main menu will be displayed 
+s5:Select pay bills option
+s6:choose the amount you want to pay
+s7:click py it 
+s8:if receit
+receipt will appear
+else:
+     it will ony be displayed
+s9:stop

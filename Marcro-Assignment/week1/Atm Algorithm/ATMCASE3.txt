@@ -1,0 +1,13 @@
+Change Pin
+s1:Insert Card
+s2:Select the language of your type
+s3:Enter the pin
+S4:Main menu will be displayed 
+s5:Select pin change option
+s6:Display Please Enter your new pin
+s7:Re enter pin 
+s8:if no error
+your pin as been changed suessfully
+else:
+     display error
+s9:stop

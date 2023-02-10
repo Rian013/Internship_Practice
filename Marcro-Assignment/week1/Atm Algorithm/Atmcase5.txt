@@ -1,0 +1,14 @@
+Transfer Fund
+s1:Insert Card
+s2:Select the language of your type
+s3:Enter the pin
+S4:Main menu will be displayed 
+s5:Select Transfer fund  option
+s6:enter benificiary's bank and account number
+s7:choose the type of acount
+s8:enter the amount and click k
+if no  error
+     transfer sucessful
+else:
+     Display error
+s9:stop
